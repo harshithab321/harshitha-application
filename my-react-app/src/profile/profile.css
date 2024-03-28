@@ -1,0 +1,18 @@
+.image{
+    width:20px;
+    height:30px;
+}
+.profile-content{
+    display: flex;
+    font-size: 1rem;
+    flex-basis: 200px;
+}
+.profile-image{
+
+    margin: 0 auto; 
+    display: block;
+    flex-basis: 500px;
+}
+.profile-info{
+    margin-top: 300px;
+}
